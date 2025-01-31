@@ -27,9 +27,9 @@ Antes de começar, certifique-se de ter instalado:
 
 ## 🚀 Como Executar o Projeto
 
-Siga os passos abaixo para configurar e executar o projeto localmente:
+Clone o repositório abaixo para configurar e executar o projeto localmente:
 
-### 1. Clone o repositório
+###  Clone o repositório
 
 ```bash
 git clone https://github.com/luqueta-DEV/tsc-pulumi-api.git
