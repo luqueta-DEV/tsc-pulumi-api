@@ -1,0 +1,10 @@
+name: henrique
+description: henrique adora a jamile
+runtime:
+  name: nodejs
+  options:
+    packagemanager: yarn
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: static-website-aws-typescript
