@@ -34,3 +34,7 @@ Clone o repositório abaixo para configurar e executar o projeto localmente:
 ```bash
 git clone https://github.com/luqueta-DEV/tsc-pulumi-api.git
 cd tsc-pulumi-api
+
+🙌 Créditos
+
+Desenvolvido por Lucas.
